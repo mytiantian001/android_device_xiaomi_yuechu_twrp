@@ -47,7 +47,7 @@ repo sync -j$(nproc --all)
 Then add these projects to .repo/manifest.xml:
 
 ```xml
-<project path="device/xiaomi/pearl" name="mytiantian001/android_device_xiaomi_yuechu" remote="github" revision="a15" />
+<project path="device/xiaomi/yuechu" name="mytiantian001/android_device_xiaomi_yuechu" remote="github" revision="a15" />
 ```
 
 Finally execute these:
