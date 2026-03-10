@@ -12,7 +12,7 @@ Basic   | Spec Sheet
 CPU     | Octa-core CPU with 4x Arm Cortex-A78 up to 3.1GHz
 Chipset | Mediatek Dimensity 8200-Ultra
 GPU     | Mali-G610 MC6
-Memory  | 8/12 GB RAM (LPDDR5 6400Mbps)
+Memory  | 8/12/16GB RAM (LPDDR5 6400Mbps)
 Shipped Android Version | 13 with MIUI 14
 Storage | 256G/512G/1TB (UFS 3.1)
 Battery | Non-removable Li-Po 4500 mAh battery
