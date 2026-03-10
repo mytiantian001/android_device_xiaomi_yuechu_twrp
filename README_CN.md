@@ -8,7 +8,7 @@
 CPU     | 八核1+3+4架构 Cortex-A78主频最高可达3.1GHz
 处理器   | 联发科 天玑 8200-Ultra
 GPU     | Mali-G610 MC6
-运行内存 | 8/12 GB RAM (LPDDR5 6400Mbps)
+运行内存 | 8/12/16GB RAM (LPDDR5 6400Mbps)
 出厂系统 |  基于安卓13的MIUI 14
 存储规格 | 256G/512G/1TB (UFS 3.1)
 电池容量 | 4500 mAh不可拆卸式
